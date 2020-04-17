@@ -18,5 +18,5 @@
 |------------|-----------|------------|------------|
 | J Test    | R Test    | F Test     |F Test     |
 
-### Sitios oficiales
+### Sitio oficial
 * [JW.org](https://jw.org)
