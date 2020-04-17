@@ -5,14 +5,14 @@
 **TESOROS DE LA BIBLIA**
 | *Presidente* | *Oracion*   | *Busquemos Perlas*   | *Busquemos Perlas*   |
 |------------|-----------|------------|------------|
-| J Test     | R Test    | F Test     |F Test     |
+| J Test     | R Test    | F Test     | F Test     |
 **SEAMOS MEJORES MAESTROS**
 | *Video* | *Primera conversacion*   | *Primera revisita*   | *Busquemos Perlas*   |
 |------------|-----------|------------|------------|
 | J Test    | R Test    | F Test     | F Test    |
 |           | G Test    | G Test     | F Test    |
 **NUESTRA VIDA CRISTIANA**
-| *Video* | *Primera conversacion*   | *Busquemos Perlas*   | *Busquemos Perlas*   |
+| *Parte 1* | *Estudio biblico*   | *Lectura*   | *Oracion*   |
 |------------|-----------|------------|------------|
 | J Test    | R Test    | F Test     |F Test     |
 
