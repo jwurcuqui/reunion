@@ -1,7 +1,7 @@
-## Testigos de Jehová - Reuniónes Urcuquí 
+### Testigos de Jehová - Reuniónes Urcuquí 
 
-### Horario por entra semana
-#### 20 - 26 de abril
+#### Horario por entra semana
+##### 20 - 26 de abril
 **TESOROS DE LA BIBLIA**
 | *Presidente* | *Oracion*   | *Busquemos Perlas*   | *Busquemos Perlas*   |
 |------------|-----------|------------|------------|
