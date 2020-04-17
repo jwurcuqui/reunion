@@ -4,7 +4,7 @@
 **TESOROS DE LA BIBLIA**
 
 | *Presidente* | *Oracion*   | *Busquemos Perlas*   | *Busquemos Perlas*   |
-|------|------|------|------|
+|:-----|:-----|:-----|:-----|
 | J Test     | R Test    | F Test     | F Test     |
 
 **SEAMOS MEJORES MAESTROS**
